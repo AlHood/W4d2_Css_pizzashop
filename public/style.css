@@ -1,0 +1,41 @@
+
+
+body {
+background-color: yellow;
+
+}
+
+h1, p {
+  background-color: darkred;
+  color: lightyellow;
+  justify-content: flex-center;
+
+}
+
+a {
+  color: lightgreen;
+}
+a:visited{
+  color: darkgreen;
+}
+
+a:hover {
+  color: gold;
+}
+
+a:active {
+  color: palegreen;
+}
+
+
+.order_details {
+  background-color: darkred;
+  display: flex;
+  justify-content: flex-center;
+}
+
+.frontpage {
+  background-color: purple;
+  display: flex;
+  justify-content: flex-center;
+}
